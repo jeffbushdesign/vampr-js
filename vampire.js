@@ -79,9 +79,8 @@ class Vampire {
     for (let vamp of this.offspring) {
       millenialVampires = millenialVampires.concat(vamp.allMillennialVampires);
     }
-
-    return millenialVampires;
     
+    return millenialVampires;
   }
 
   /** Stretch **/
