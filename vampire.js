@@ -82,9 +82,7 @@ class Vampire {
     
     return millenialVampires;
   }
-
   /** Stretch **/
-
   // Returns the closest common ancestor of two vampires.
   // The closest common anscestor should be the more senior vampire if a direct ancestor is used.
   // For example:
